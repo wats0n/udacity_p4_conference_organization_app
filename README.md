@@ -34,18 +34,20 @@ App Engine application for the Udacity training course.
 
 ------
 ##Project APIs
-1. 
+1. Task1
     * createSession - with workqueue
     * getConferenceSessions
     * getConferenceSessionsByType
     * getSessionsBySpeake
-2.
+2. Task2
     * addSessioinToWishList
     * getSessionInWishList
     * deleteSessionInWishList
-3.
+3. Task3
     *getFeaturedSpeaker
     *_setFeaturedSpeaker for main.py to cache workqueue push function
+
+Example App Site: [Link](https://conference-central-w3-160221.appspot.com/)
 
 ##Creator
 ------
